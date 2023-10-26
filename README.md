@@ -1,7 +1,7 @@
 # Desafio-1---Landing-Page
 Links :
-Planilha: https://docs.google.com/spreadsheets/d/1xh3VsmTt9dqFuHt7euYc-N4hXqQn8LtPYJoqTOym4SY/edit?usp=sharing
-Site: https://mablerarquitetura.netlify.app/
+- Planilha: https://docs.google.com/spreadsheets/d/1xh3VsmTt9dqFuHt7euYc-N4hXqQn8LtPYJoqTOym4SY/edit?usp=sharing
+- Site: https://mablerarquitetura.netlify.app/
 
 
 Esta é uma Landing Page criada para completar o  Desafio 1 do módulo base do curso de Tecnologia da Escola DNC
